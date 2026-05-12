@@ -4,6 +4,8 @@
 > alojamientos de Airbnb en Río de Janeiro, desde el EDA hasta una **app
 > interactiva en Streamlit**.
 
+**🚀 App desplegada:** [ke-prediccion-airbnb.streamlit.app](https://ke-prediccion-airbnb.streamlit.app)
+
 ## Descripción
 
 A partir del dataset público de Inside Airbnb (Río), el proyecto cubre el
@@ -142,6 +144,8 @@ precio directamente en USD.
 
 [Streamlit Community Cloud](https://share.streamlit.io) permite desplegar la
 app directamente desde el repo de GitHub.
+
+**App en producción:** [ke-prediccion-airbnb.streamlit.app](https://ke-prediccion-airbnb.streamlit.app)
 
 ### Prerrequisitos
 - Repositorio **público** o autorizado en la cuenta de Streamlit.
