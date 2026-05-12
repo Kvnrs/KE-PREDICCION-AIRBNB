@@ -4,5 +4,9 @@ scikit-learn
 plotly
 streamlit
 xgboost
+lightgbm
+catboost
 joblib
 nbformat
+optuna
+scikit-optimize
